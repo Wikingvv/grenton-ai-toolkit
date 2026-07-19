@@ -24,3 +24,14 @@ Każdy przykład powinien:
 ## Cel
 
 Tworzymy najlepszą bazę wiedzy oraz zestaw narzędzi dla programistów Grenton.
+
+## Filtr jakości
+
+- Czy to już istnieje w oficjalnej dokumentacji?
+  Jeśli tak – linkujemy, nie kopiujemy.
+- Czy to jest nasze rozwiązanie?
+  Jeśli tak – opisujemy i dodajemy.
+- Czy można to wykorzystać ponownie?
+  Jeśli tak – trafia do library/.
+- Czy można to uruchomić jako przykład?
+  Jeśli tak – trafia do examples/.
