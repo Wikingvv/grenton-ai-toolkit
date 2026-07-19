@@ -23,7 +23,4 @@ Każdy przykład powinien:
 
 ## Cel
 
-Tworzymy najlepszą bazę wiedzy oraz zestaw narzędzi dla programistów Grenton.[v] dokumentacja po polsku;
-[v] kod po angielsku;
-[v] przykłady muszą być przetestowane;
-[v] każda funkcja powinna mieć opis.
+Tworzymy najlepszą bazę wiedzy oraz zestaw narzędzi dla programistów Grenton.
